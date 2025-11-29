@@ -1,8 +1,8 @@
-# VIRTUAL-ASSISTANT
-SHIFRA ASSISTANT
+# VION VIRTUAL ASSISTANT
+VION ASSISTANT
 Shifra – Your Virtual Assistant (HTML + CSS + JavaScript)
 
-**Shifra** is a beginner-friendly voice-based virtual assistant built using **HTML**, **CSS**, and **Vanilla JavaScript**. It greets the user based on the time of day and can respond to simple voice commands using the **Web Speech API**.
+**VION** is a beginner-friendly voice-based virtual assistant built using **HTML**, **CSS**, and **JavaScript**. It greets the user based on the time of day and can respond to simple voice commands using the **Web Speech API**.
 
 ---
 
@@ -33,7 +33,7 @@ virtual-assistant/
 ├── index.html # Main webpage
 ├── style.css # Styling for layout and theme
 ├── script.js # JavaScript logic (speech, greeting, commands)
-├── logo.jpg # Assistant logo
+├── robotai.jpg # Assistant logo
 ├── sirilogo.jpg # Assistant voice logo
 ├── mic.svg # Microphone icon
 └── README.md # Project documentation
@@ -71,4 +71,5 @@ virtual-assistant/
 | `what is the time`   | Tells current time                
 | `what is the date`   | Tells current date                
 | Any other query      | Searches on Google                
+
 
